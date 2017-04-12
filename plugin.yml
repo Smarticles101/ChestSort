@@ -1,0 +1,11 @@
+name: ChestSort
+version: 0.1.0
+author: Smarticles101
+api: 3.0.0-ALPHA4
+main: me\logans\ChestSort\Main
+
+commands:
+  sort:
+    description: Touch a chest and it will be sorted!
+    useage: /sort
+    aliases: [s]
